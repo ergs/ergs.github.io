@@ -1131,10 +1131,14 @@
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
-			a:hover strong {
+            a:hover strong {
                 /*color: #ed786a;*/
                 color: #FF5050;
-			}
+            }
+
+            a:hover b {
+                color: #FF5050;
+            }
 
     a img {
         border: 0 none;
