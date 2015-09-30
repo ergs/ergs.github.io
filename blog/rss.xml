@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
- <title>ERGS Blog</title>
- <description>The official blog feed for ERGS</description>
+ <title> Blog</title>
+ <description>The official blog feed for </description>
  <link>http://www.ergs.sc.edu</link>
- <pubDate>Wed, 30 Sep 2015 21:25:14 -0000</pubDate>
+ <pubDate>Wed, 30 Sep 2015 22:24:10 -0000</pubDate>
  <ttl>1800</ttl>
  
  <item>
